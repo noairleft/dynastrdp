@@ -1,8 +1,14 @@
 # DynastyRDP
 
 This free RDP by Azure is brought to you by DynastyAIO the first and only exclusive config cloud that comes with a complimentary 2FA OTP BOT with caller ID spoofing! 
-If you enjoy this share please join us in the discord server https://discord.gg/apmUxghnCu > If link dies you can use https://market.DynastyOTP.xyz for the new invite. 
+If you enjoy this share please join us in the open market discord server https://discord.gg/mSVS4SX962 > If link dies you can use https://market.DynastyOTP.xyz for the new invite. 
 We have Paypal, Venmo, American Express, Netspend, Stockpile, Gift Card Genrators & Tons more! Also when/if if this version gets patched I will post the new method in the group. Now, lets get to the free rdp stuff.
+
+Video Tutorial:
+
+
+https://user-images.githubusercontent.com/110190937/183316763-c9292bf7-d973-4155-8a63-650868961cf9.mp4
+
 
 
 Requirements:
